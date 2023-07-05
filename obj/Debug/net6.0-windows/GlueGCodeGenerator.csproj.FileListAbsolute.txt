@@ -1,0 +1,51 @@
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.exe
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.deps.json
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.runtimeconfig.json
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.AssemblyReference.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GlueGCodeGenerator.resources
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.GenerateResource.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfoInputs.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfo.cs
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\refint\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.genruntimeconfig.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\ref\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.exe
+C:\Glue_3d_Printer\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.deps.json
+C:\Glue_3d_Printer\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.runtimeconfig.json
+C:\Glue_3d_Printer\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.AssemblyReference.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GlueGCodeGenerator.resources
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.GenerateResource.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfoInputs.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfo.cs
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\refint\GlueGCodeGenerator.dll
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.genruntimeconfig.cache
+C:\Glue_3d_Printer\GlueGCodeGenerator\obj\Debug\net6.0-windows\ref\GlueGCodeGenerator.dll
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.exe
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.deps.json
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.runtimeconfig.json
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\bin\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.AssemblyReference.cache
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GlueGCodeGenerator.resources
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.GenerateResource.cache
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfoInputs.cache
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.AssemblyInfo.cs
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.dll
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\refint\GlueGCodeGenerator.dll
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.pdb
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\GlueGCodeGenerator.genruntimeconfig.cache
+C:\Visual Studio\GlueGCodeGenerator\GlueGCodeGenerator\obj\Debug\net6.0-windows\ref\GlueGCodeGenerator.dll
